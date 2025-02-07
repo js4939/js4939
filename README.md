@@ -5,4 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delay-100&layout=compact)](https://github.com/js4939/github-readme-stats)
 
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
+![footer](https://capsule-render.vercel.app/api?section=footer)
