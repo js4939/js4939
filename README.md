@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=400&section=header&text=Jisu%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=Jisu%20Kim&fontSize=90)
 
 ## 💻 Tech Stack
 <p align="center">
@@ -16,4 +16,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=js4939&show_icons=true&theme=solarized-light" alt="Jisu's GitHub stats" width="400px" />
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&section=footer&height=300)
+![footer](https://capsule-render.vercel.app/api?type=wave&section=footer&height=250)
