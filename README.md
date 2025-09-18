@@ -13,7 +13,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=js4939&show_icons=true&theme=solarized-light" alt="Jisu's GitHub stats" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=js4939&show_icons=true&theme=transparent" alt="Jisu's GitHub stats" width="400px" />
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer&height=250)
