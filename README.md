@@ -20,16 +20,16 @@
 ## 🚀 My Projects
 <p align="center">
   <a href="https://github.com/js4939/KEYWE-FE-Mobile-RN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=js4939&repo=KEYWE-FE-Mobile-RN&theme=transparent&show_owner=true" width="550px" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=js4939&repo=KEYWE-FE-Mobile-RN&theme=transparent&show_owner=true" width="400px" />
   </a>
   <a href="https://github.com/js4939/CineAI-FE-Web-React">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=js4939&repo=CineAI-FE-Web-React&theme=transparent&show_owner=true" width="550px" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=js4939&repo=CineAI-FE-Web-React&theme=transparent&show_owner=true" width="400px" />
   </a>
   <a href="https://github.com/js4939/Newspace-FE-Web-DEPLOY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=js4939&repo=Newspace-FE-Web-DEPLOY&theme=transparent&show_owner=true" width="550px" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=js4939&repo=Newspace-FE-Web-DEPLOY&theme=transparent&show_owner=true" width="400px" />
   </a>
   <a href="https://github.com/js4939/YHJSS-FE-Mobile-Kotlin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=js4939&repo=YHJSS-FE-Mobile-Kotlin&theme=transparent&show_owner=true" width="550px" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=js4939&repo=YHJSS-FE-Mobile-Kotlin&theme=transparent&show_owner=true" width="400px" />
   </a>
 <p align="center">
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer&height=250)
