@@ -16,9 +16,11 @@
   <br>
   직관적이고 접근성 높은 서비스를 만드는 데 관심이 많습니다.
 </p>
+<br/>
 
+## 📬 Contact
 <p align="center">
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:kimjisu4939@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
