@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  📬 <b>Contact:</b> <a href="mailto:kimjisu4939@gmail.com">kimjisu4939@gmail.com</a>
+  📬 <b>Contact:</b> kimjisu4939@gmail.com
 </p>
 
 <br/>
