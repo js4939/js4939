@@ -1,6 +1,29 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=350&section=header&text=Jisu%20Kim&fontSize=90)
 
+## 🙋‍♀️ About Me
+
+<h3 align="center">
+  안녕하세요! 👋 웹과 모바일 플랫폼을 넘나들며
+  <br>
+  가치 있는 사용자 경험을 만드는 개발자 김지수입니다.
+</h3>
+
+<p align="center">
+  React.js로 웹 서비스를, React Native와 Kotlin으로 모바일 앱을 개발한 경험이 있습니다.
+  <br>
+  플랫폼에 구애받지 않고, 사용자가 쉽게 이해하고 체감할 수 있는 
+  <br>
+  직관적이고 접근성 높은 서비스를 만드는 데 관심이 많습니다.
+</p>
+
+<p align="center">
+  <a href="mailto:YOUR-EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+<br/>
+
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
